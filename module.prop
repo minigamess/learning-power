@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
+id=LearningPower
+name=学习强国
 version=v2.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=young
+description=好好学习,天天向上
+updateJson=https://raw.githubusercontent.com/minigamess/learning-power/master/update.json
